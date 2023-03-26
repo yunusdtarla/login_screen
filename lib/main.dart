@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:login_screen/pages/card_design.dart';
+import './pages/card_design.dart';
 import 'package:responsive_framework/responsive_wrapper.dart';
 import 'package:responsive_framework/utils/scroll_behavior.dart';
 

@@ -2,7 +2,7 @@
 
 import 'package:flip_card/flip_card.dart';
 import 'package:flutter/material.dart';
-import 'package:login_screen/pages/signup_page.dart';
+import '../pages/signup_page.dart';
 
 import '../constant/app_constants.dart';
 import 'login_page.dart';
